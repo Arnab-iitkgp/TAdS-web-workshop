@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.navbar
+{
+    background-color: #615c5c;
+    height: 20vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+}
+.content
+{ border: 2px solid black;
+    border-left: 0px;
+    border-right:  0px;
+    height: 80vh;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+  height: 350px;
+  
+  margin: 100px;
+
+}
+.text{
+    margin: 30px;
+    line-height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer{
+   
+  
+    
+}

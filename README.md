@@ -1,1 +1,1 @@
-# TAdS-web-workshop
+# TAdS-web-workshop - TASKS of first ws
